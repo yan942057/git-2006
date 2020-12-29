@@ -10,6 +10,7 @@ class Git2006ApplicationTests {
     void contextLoads() {
         int a=10;
         int b=20;
+        String string="hehehe";
     }
 
 }
